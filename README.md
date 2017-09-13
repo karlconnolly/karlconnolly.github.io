@@ -1,11 +1,7 @@
 <style>
-body {
-            background-image: url("https://i.makeagif.com/media/7-21-2015/Wa5D67.gif");
-            }
-            
-            
-
-            
+            body {
+                        background-image: url("https://i.makeagif.com/media/7-21-2015/Wa5D67.gif");
+                        }
 </style>
 
 <b>
