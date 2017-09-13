@@ -1,10 +1,8 @@
 <style>
 body {
-            background-color: rgb(0, 0, 0);
+            background-image: url("https://i.makeagif.com/media/7-21-2015/Wa5D67.gif");
             }
             
-            
-            <img src="http://pngimg.com/uploads/star/star_PNG1585.png" alt="star" width="100"> <img src="https://pbs.twimg.com/profile_images/535222646963572736/KZItD1f-.png" alt="Danny" width="100"> <img src="http://pngimg.com/uploads/star/star_PNG1585.png" alt="star" width="100"> 
             
 
             
