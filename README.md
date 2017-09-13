@@ -88,3 +88,8 @@ starteffect()
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Danny_DeVito_by_Gage_Skidmore.jpg/170px-Danny_DeVito_by_Gage_Skidmore.jpg" alt="Ya boi Danny" width="300"> 
 
 <img src="https://media.giphy.com/media/l0EozQZTvsWiTLies/giphy-downsized-large.gif" alt="Egg" width="300"> 
+
+<p>Danny DeVito is a famous actor and comedian, he was born on November 17, 1944, he appeared in such classics like "It's always sunny in Philadelphia", "Taxi", "Matilda", "The Lorax", "Hercules" and much more.</p>
+
+<p>Danny DeVito's first role he ever played was Martini in the 1975 film "One Flew Over the Cuckoo's Nest" but he didn't get well known until he played one of his most famous rolls as Louie De Palma in the TV show "Taxi"</p>
+<p>Danny Devito also helped produce some movies, including "Pulp Fiction" and "Get Shorty"
