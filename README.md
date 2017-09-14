@@ -6,7 +6,7 @@
   body {
     position: relative;
     width: 100%;
-    border: 1px solid red;
+    border: 1px solid white;
     display: block;
   }
 
@@ -114,4 +114,4 @@ starteffect()
 
 <p>Danny Devito also helped produce some movies, including "Pulp Fiction" and "Get Shorty"</p>
 
-<iframe width="500" height="480" src="https://www.youtube.com/embed/xzlVvhbrx7k" frameborder="0" allowfullscreen></iframe>
+<iframe width="450" height="480" src="https://www.youtube.com/embed/xzlVvhbrx7k" frameborder="0" allowfullscreen></iframe>
