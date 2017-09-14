@@ -27,7 +27,7 @@ For this script, visit http://www.javascriptkit.com
 // ********** MAKE YOUR CHANGES HERE
 
 var text="MY TRIBUTE TO DANNY DEVITO" // YOUR TEXT
-var speed=5 // SPEED OF FADE
+var speed=0.01 // SPEED OF FADE
 
 // ********** LEAVE THE NEXT BIT ALONE!
 
