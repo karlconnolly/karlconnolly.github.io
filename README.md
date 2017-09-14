@@ -11,7 +11,12 @@ body {
 <b>
 
 <script>
-
+<body>
+.header {
+            text-align: center;
+            padding: 20px;
+            }
+            </body>
 /*
 RAINBOW TEXT Script by Matt Hedgecoe (c) 2002
 Featured on JavaScript Kit
