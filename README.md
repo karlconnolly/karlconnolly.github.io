@@ -4,7 +4,7 @@
                         }
 
 p {
-    font-family: "Cursive";
+    font-family: "Cursive", sans;
 }
 
   body {
