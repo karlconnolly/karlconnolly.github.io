@@ -3,10 +3,24 @@
                         background-image: url("https://i.makeagif.com/media/7-21-2015/Wa5D67.gif");
                         }
 
-.header {
-            text-align: center;
-            padding: 20px;
-            }
+  body {
+    position: relative;
+    width: 100%;
+    border: 1px solid red;
+    display: block;
+  }
+
+  body > *  {
+    margin: auto;
+    width: 500px;
+    border: 1px solid blue;
+    display: block;
+    overflow: auto;
+  }
+
+  body > script {
+    display: none
+  }
 
 body {
      color: white;
