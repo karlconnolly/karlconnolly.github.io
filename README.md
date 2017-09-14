@@ -3,6 +3,10 @@
                         background-image: url("https://i.makeagif.com/media/7-21-2015/Wa5D67.gif");
                         }
 
+p {
+    font-family: "Cursive";
+}
+
   body {
     position: relative;
     width: 100%;
