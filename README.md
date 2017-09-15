@@ -108,30 +108,6 @@ starteffect()
 <div><span style="color:#da00ff;">T</span><span style="color:#dd16fe;">H</span><span style="color:#e02cfd;">I</span><span style="color:#e343fc;">S</span><span style="color:#e759fb;"> </span><span style="color:#ea6ffa;">I</span><span style="color:#ed85f9;">S</span><span style="color:#d96ad8;"> </span><span style="color:#c450b7;">M</span><span style="color:#b03595;">Y</span><span style="color:#9b1b74;"> </span><span style="color:#870053;">W</span><span style="color:#900964;">E</span><span style="color:#981274;">B</span><span style="color:#a11b85;">S</span><span style="color:#a92495;">I</span><span style="color:#b22da6;">T</span><span style="color:#ba36b6;">E</span></div>
 
 .transparent {
-	/* Required for IE 5, 6, 7 */
-	/* ...or something to trigger hasLayout, like zoom: 1; */
-	width: 100%; 
-		
-	/* Theoretically for IE 8 & 9 (more valid) */	
-	/* ...but not required as filter works too */
-	/* should come BEFORE filter */
-	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-	
-	/* This works in IE 8 & 9 too */
-	/* ... but also 5, 6, 7 */
-	filter: alpha(opacity=50);
-	
-	/* Older than Firefox 0.9 */
-	-moz-opacity:0.5;
-	
-	/* Safari 1.x (pre WebKit!) */
-	-khtml-opacity: 0.5;
-    
-	/* Modern!
-	/* Firefox 0.9+, Safari 2?, Chrome any?
-	/* Opera 9+, IE 9+ */
-	opacity: 0.5;
-
 
 <img src="https://pbs.twimg.com/profile_images/535222646963572736/KZItD1f-.png" alt="Ya boi Danny" width="300"> 
 
