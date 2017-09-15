@@ -131,9 +131,11 @@ starteffect()
 	/* Firefox 0.9+, Safari 2?, Chrome any?
 	/* Opera 9+, IE 9+ */
 	opacity: 0.5;
-}
+
 
 <img src="https://pbs.twimg.com/profile_images/535222646963572736/KZItD1f-.png" alt="Ya boi Danny" width="300"> 
+
+}
 
 <img src="https://media.giphy.com/media/l0EozQZTvsWiTLies/giphy-downsized-large.gif" alt="Egg" width="300"> 
 
