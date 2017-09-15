@@ -1,7 +1,5 @@
 <style>
 
-<link rel="icon" href="https://i.warosu.org/data/tg/img/0483/91/1469389725247.jpg">
-
             body {
                         background-image: url("https://i.makeagif.com/media/7-21-2015/Wa5D67.gif");
                         }
@@ -124,3 +122,4 @@ starteffect()
 
 <iframe width="450" height="480" src="https://www.youtube.com/embed/xzlVvhbrx7k" frameborder="0" allowfullscreen></iframe>
 
+<link rel="icon" href="https://i.warosu.org/data/tg/img/0483/91/1469389725247.jpg">
