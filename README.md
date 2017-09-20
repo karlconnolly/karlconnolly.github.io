@@ -123,3 +123,21 @@ starteffect()
 <iframe width="450" height="480" src="https://www.youtube.com/embed/xzlVvhbrx7k" frameborder="0" allowfullscreen></iframe>
 
 <link rel="icon" href="https://i.warosu.org/data/tg/img/0483/91/1469389725247.jpg">
+
+<p>Here's a list of all the characters that Danny DeVito has played</p>
+
+<img src="http://3.bp.blogspot.com/-G9IFZfT-_Hs/TnZd6ELkOyI/AAAAAAAAFPQ/r76i-3b5Fno/s1600/OneFlewOver2_034Pyxurz.jpg" alt="Martini" width="300">
+
+<p>Martini (One Flew Over the Cuckoo's Nest)</p>
+
+<img src="http://www.sitcomsonline.com/photopost/data/740/Taxi406.jpg" alt="Louie DePalma" width="300">
+
+<p>Louie DePalma (Taxi)</p>
+
+<img src="http://akns-images.eonline.com/eol_images/Entire_Site/2012617/reg_1024.penguin.mh.071712.jpg" alt="The Penguin" width="300">
+
+<p>The Penguin (Batman Returns)</p>
+
+<img src="http://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/philoctetes-hercules-45.7.jpg" alt="Phil" width="300">
+
+<p>Phil (Hercules)</p>
