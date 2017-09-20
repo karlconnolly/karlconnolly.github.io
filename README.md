@@ -5,7 +5,7 @@
                         }
 
 p {
-    font-family: "Cursive", sans;
+    font-family: "comic sans ms", Times, serif;
 }
 
   body {
