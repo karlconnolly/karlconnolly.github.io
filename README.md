@@ -153,3 +153,11 @@ starteffect()
 <img src="https://pbs.twimg.com/profile_images/1298724778/sid.jpg" alt="Sid Hudgens" width="300">
 
 <p>Sid Hudgens (L.A. Confidential)</p>
+
+<img src="http://www.movieactors.com/photos-stars/danny-devito-austinpower-gold.jpg" alt="Mini Me" width="300">
+
+<p>Mini-Me (Austin Powers in Goldmember)</p>
+
+<img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTI5MzI4MjI3M15BMl5BanBnXkFtZTYwNTE0ODU3._V1_.jpg" alt="Doctor Larry Arbogast" width="300>
+
+<p>Dr Larry Arbogast (Junior)</p>
