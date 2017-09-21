@@ -158,6 +158,6 @@ starteffect()
 
 <p>Mini-Me (Austin Powers in Goldmember)</p>
 
-<img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTI5MzI4MjI3M15BMl5BanBnXkFtZTYwNTE0ODU3._V1_.jpg" alt="Doctor Larry Arbogast" width="300>
+<img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTI5MzI4MjI3M15BMl5BanBnXkFtZTYwNTE0ODU3._V1_.jpg" alt="Doctor Larry Arbogast" width="300">
 
 <p>Dr Larry Arbogast (Junior)</p>
