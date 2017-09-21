@@ -141,3 +141,15 @@ starteffect()
 <img src="http://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/philoctetes-hercules-45.7.jpg" alt="Phil" width="300">
 
 <p>Phil (Hercules)</p>
+
+<img src="https://i.ytimg.com/vi/AHzw4QvE2Do/maxresdefault.jpg" alt="Frank Reynolds" width="300">
+
+<p>Frank Reynolds (It's Always Sunny In Philadelphia)</p>
+
+<img src="https://az616578.vo.msecnd.net/files/2016/07/15/6360422084426850861047257775_dr-seuss-the-lorax-884674l.jpg" alt="The Lorax" width="300">
+
+<p>The Lorax (The Lorax)</p>
+
+<img src="https://pbs.twimg.com/profile_images/1298724778/sid.jpg" alt="Sid Hudgens" width="300">
+
+<p>Sid Hudgens (L.A. Confidential)</p>
