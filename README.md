@@ -1,8 +1,8 @@
+<style>
+
 <link rel="icon" href="https://files.gamebanana.com/img/ico/games/591f162eaaccd.gif">
 <meta charset="utf-8">
 <title>DANNY DEVITO</title>
-
-<style>
 
             body {
                         background-image: url("https://i.makeagif.com/media/7-21-2015/Wa5D67.gif");
