@@ -166,3 +166,5 @@ starteffect()
 <img src="https://images-na.ssl-images-amazon.com/images/M/MV5BMTI5MzI4MjI3M15BMl5BanBnXkFtZTYwNTE0ODU3._V1_.jpg" alt="Doctor Larry Arbogast" width="300">
 
 <p>Dr Larry Arbogast (Junior)</p>
+
+<img src="https://media.giphy.com/media/CaiVJuZGvR8HK/source.gif" alt="Thonk" width="300">
