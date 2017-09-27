@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <html>
-    <head>
+<head>
+<style>
 <link rel="icon" href="https://i.imgur.com/D6M1gR6.png">
 <meta charset="utf-8">
 <title>DANNY DEVITO</title>
 </head>
+</head>
+</html>
 
 <style>
 
