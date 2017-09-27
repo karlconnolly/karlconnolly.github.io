@@ -1,7 +1,10 @@
-<link rel="icon" href="https://files.gamebanana.com/img/ico/games/591f162eaaccd.gif">
+<!DOCTYPE html>
+<html>
+    <head>
+<link rel="icon" href="https://i.imgur.com/D6M1gR6.png">
 <meta charset="utf-8">
 <title>DANNY DEVITO</title>
-
+</head>
 
 <style>
 
