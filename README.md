@@ -1,4 +1,6 @@
-<link rel="icon" href="https://imgur.com/A9viy7k">
+<link rel="icon" href="https://files.gamebanana.com/img/ico/games/591f162eaaccd.gif">
+<meta charset="utf-8">
+<title>DANNY DEVITO</title>
 
 <style>
 
