@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
-<head>
- <link rel="shortcut icon" href="https://pbs.twimg.com/media/Cvxe-5zUAAEETfa.png" type="image/x-icon" />
- </head>
-<meta charset="utf-8">
 <title>
 DANNY DEVITO
 </title>
+    <head>
+ <link rel="shortcut icon" href="https://pbs.twimg.com/media/Cvxe-5zUAAEETfa.png" type="image/x-icon" />
+    </head>
+<meta charset="utf-8">
 
 <style>
 
