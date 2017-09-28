@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
- <link rel="shortcut icon" href="http://vignette4.wikia.nocookie.net/solekian/images/a/a3/The_Trash_Man.jpg/revision/latest?cb=20160629033858" type="image/x-icon" />
+ <link rel="shortcut icon" href="https://pbs.twimg.com/media/Cvxe-5zUAAEETfa.png" type="image/x-icon" />
  </head>
 <meta charset="utf-8">
 <title>
