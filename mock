@@ -1,6 +1,7 @@
 <html>
 <head>
 <title>Karl's Art Gallery</title>
+<p>KaRl'S aRt GaLlErY</p>
 </head>
 <script>
 for (var line=1; line<60; line++) {
