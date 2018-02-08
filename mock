@@ -6,10 +6,39 @@
 <script>
 for (var line=1; line<60; line++) {
   for(var i=1;i<29;i++) {
-    var s = (Math.floor((Math.random()*9)%100)) ? "╱" : "╲";
+    var s = (Math.floor((Math.random()*22)%11)) ? "-" : "+";
     document.write(s);
   }
   document.writeln("<br>");
 }
 </script>
+console.log("`%c
+<p>        L L A M A        </p>
+        <p>		_    _</p>
+       <p>		( \__//)</p> 
+       <p>		.'     )</p>
+    <p>		__/b d  .  )</p>
+   <p>		(_Y_`,     .)</p>
+    <p>		`--'-,-'  )</p>
+         <p>	(.  )</p>
+         <p>	(   )</p>
+        <p>		(   )</p>
+       <p>		( . )         .---.</p>
+      <p>		(    )        (     )</p>
+      <p>		(   . )      (  .    )</p>
+      <p>		(      )    (      .  ),</p>
+      <p>		( .     `"'`  .       `)\</p>
+       <p>		(      .              .)\</p>
+       <p>		((  .      .   (   .   )\\</p>
+       <p>		((       .    (        ) \\</p>
+        <p>		((     )     _( .   . )  \\</p>
+        <p>		( ( .   )"'"`(.(     )   ( ;</p>
+        <p>		( (    )      ( ( . )     \'</p>
+         <p>		|~(  )        |~(  )</p>
+         <p>		| ||~|        | ||~|</p>
+         <p>		| || |        | || |</p>    
+        <p>		_| || |       _| || |</p>
+       <p>		/___(| |      /___(| |</p>
+          <p>		/___(         /___(</p>
+"font-family:monospace")
 </html>
